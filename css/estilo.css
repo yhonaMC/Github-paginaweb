@@ -1,0 +1,161 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+body{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*Header*/
+.navbar-brand{
+    padding: 10px 0;
+    width: 54%;
+    margin: auto;
+    overflow: hidden;
+}
+.logo{
+    width: 70px;
+    
+}
+ #ready{
+    border-bottom: 3px solid #19E2D6;
+
+}
+
+header{
+    width: 100%;
+    height: 700px;
+    background:#2930FF;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+.texto-header {
+    position: relative;
+    margin: 20px;
+    line-height: 10px;
+    
+     
+}
+.texto-header h1{
+    color: white;
+    font-size: 40px;
+
+}
+.texto-header h3{  
+    color: white; 
+    font-size: 25px; 
+}
+
+.principal{
+    border-radius: 20px;
+    margin: 5px; 
+    float: right; 
+    width: 600px;
+    vertical-align: middle;
+    }
+.btn{
+ background:#2930FF ;
+    }
+.wave{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    
+  
+}
+
+/*Abous us*/
+
+.imagen-about-us{
+width: 550px;
+border-radius: 20px;
+float: right;
+padding-left: 10px;
+padding-top: 50px;
+}
+.titulo{
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 35px;
+    color: #021947;
+    margin: 0;
+    text-align: center!important;
+   
+}
+.border-bottom-about-us{
+    width: 18rem;
+    border-bottom: 4px solid #19e2d6;
+    margin: 0 auto;
+  
+}
+
+.contenido-texto{
+    padding-left: 70px;
+    text-align: left;
+    padding-top: 40px;
+    font-family: Nunito;
+}
+.contenido-texto p{
+    font-size: 18px;
+    line-height: 25px;
+    color: #021947;
+}
+h3{
+    color:#021947 ;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 25px;
+}
+.titulo-vision{
+    font-size: 25px;
+    color:#021947 ;
+    padding: 7rem 0 0 4rem;   
+}
+
+.imagen-us{
+    width: 650px;
+border-radius: 20px;
+float: left;
+padding: 50px;
+}
+.contenido-texto-vision{
+    padding: 1rem 1.8rem 0 3rem;
+    color: #021947;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+/*Service*/
+
+h3{
+    margin: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.border-bottom-ourServices-us{
+    width: 18rem;
+    border-bottom: 4px solid #19e2d6;
+    margin: 0 auto;
+    
+  
+}
