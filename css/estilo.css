@@ -131,6 +131,8 @@ padding: 50px;
 }
 
 /*Service*/
+
+
 .row{
     float: left;
     background: #e3e1ec;
@@ -193,3 +195,30 @@ padding: 50px;
         line-height: 22px;
         margin-bottom: 1rem;
 }
+
+/*Eligenos*/
+.title-us{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: #021947;
+}
+
+.border-bottom-dashboar-us{
+    width: 22rem;
+    border-bottom: 4px solid #19e2d6;
+}
+.elegirnos{
+    padding-top: 3rem;
+    padding-left: 3rem;
+    text-align: left;
+}
+ .texto-eligenos{
+     font-size: 16px;
+     font-weight: 500;
+     line-height: 20px;
+ }
+ .imagen-pc{
+     width: 600px;
+     float: left;
+ }
