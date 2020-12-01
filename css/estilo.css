@@ -240,7 +240,7 @@ padding: 50px;
 }
 
 .card{
-    margin: 1em;
+    margin: 2em;
     padding: 1em;
     float: left;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -253,7 +253,7 @@ text-align: center;
     text-align: center;
     }
 
-.btn-primary{
+.btn-ours{
         background-color: white;
         color: #2930FF;
         border-radius: 50px;
@@ -274,3 +274,70 @@ text-align: center;
         margin: auto;
       
     }
+
+    /*formulario*/
+
+.texto-cont{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: #021947;
+    padding-top: 40px;
+}
+
+.text-p1 p{
+    font-size: 20px;
+    padding-top: 25px;
+    color: #021947;
+}
+
+.form-contact-us{
+    width: 58%;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    height: 500px;
+    
+    
+}
+
+.form-group{
+    width: 400px;
+    margin: auto;
+    padding-bottom: 15px;
+}
+
+textarea{
+width: 400px;
+height: 60px;
+margin-left: 102px;
+}
+.btn-enviar{
+ background:#2930FF;
+ color: white;
+ width: 100px;
+ display: block;
+ margin: auto;
+ border-radius: 50px;
+}
+.border-bottom-ourServices-usi{
+    width: 13rem;
+    border-bottom: 4px solid #19e2d6;
+}
+/*footer*/
+.pb-3{
+    padding-bottom: 1rem!important;
+}
+.bg-footer{
+background-color: #021947;
+}
+
+.conten-foo p{
+    color: white;
+}
+.titulo-final{
+    color: white;
+}
+.foot{
+    position: absolute;
+    width: 100%; 
+}
